@@ -19,7 +19,6 @@
     <build_depend>laser_geometry</build_depend>
     <build_depend>map_msgs</build_depend>
     <build_depend>message_filters</build_depend>
-    <build_depend>message_generation</build_depend>
     <build_depend>nav_msgs</build_depend>
     <build_depend>pluginlib</build_depend>
     <build_depend>roscpp</build_depend>
